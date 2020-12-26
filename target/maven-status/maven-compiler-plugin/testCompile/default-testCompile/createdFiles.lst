@@ -1,0 +1,7 @@
+com/mmc/common/entity/User.class
+com/mmc/common/Application.class
+com/mmc/common/controller/IndexController.class
+com/mmc/common/service/UserService.class
+com/mmc/common/dao/BaseDao.class
+com/mmc/common/service/UserServiceImpl.class
+com/mmc/common/dao/BaseDaoImpl.class
